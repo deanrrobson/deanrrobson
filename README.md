@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dean
-- 👀 I’m interested in all things web development and photography.
-- 🌱 I’m currently learning full stack web development.
-- 💞️ I’m looking to collaborate on all web development and latest trends.
-- 📫 You can reach me at twitter.com/deanrrobson
+- 👀 I’m interested in 
+- 🌱 I’m currently learning .
+- 💞️ I’m looking to collaborate on
+- 📫 You can reach me at 
 
 <!---
 deanrrobson/deanrrobson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
